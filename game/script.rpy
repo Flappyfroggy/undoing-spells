@@ -8,195 +8,188 @@ define C = Character("claire")
 label start:
 
     scene 1
-    "Postman" “Knock Knock!”
-    M “Coming! Leave the parcel on the doormat!”
+    "Postman" "Knock Knock!"
+    M "Coming! Leave the parcel on the doormat!"
     scene 2
-    M “W.w..what’s this? Where's my parcel?"
-    M “I shouldn’t be receiving any letters either, especially one this fancy”
-    M “I.. guess I should open it, shouldn't I, Mr Postman?”
-    M “Huh? Where’d he go…… No worries anyway.”
-    M “Lets see what we have here….”
+    M "W.w..what's this? Where's my parcel?"
+    M "I shouldn't be receiving any letters either, especially one this fancy"
+    M "I.. guess I should open it, shouldn't I, Mr Postman?"
+    M "Huh? Where'd he go... No worries anyway."
+    M "Lets see what we have here..."
     scene 3
-    M “m..me? Me? They want me to join them, the one leading the revolution?”
-    M “I guess.. I have to think about it. I mean the letter might be fake.. And i don’t know if I want to join a revolution anyway.”
-    B “Knock Knock!”
-    M “Elle, is that you?”
-    B “Yes! Open up!”
-    M “coming!”
+    M "m..me? Me? They want me to join them, the one leading the revolution?"
+    M "I guess.. I have to think about it. I mean the letter might be fake.. And i don't know if I want to join a revolution anyway."
+    B "Knock Knock!"
+    M "Elle, is that you?"
+    B "Yes! Open up!"
+    M "coming!"
     scene 4
-    B “Guess what! I got invited to the Institute of Disenchantment!”
-    B “And i’m accepting the invite! I have to go, they’re so mysterious and now I can finally know all their secrets!”
-    M “ I got an invite too! But.. I’m not sure I should accept. I mean, I don't really want to participate in a revolution. I just want to live a normal life.”
-    B “PLEASE accept. I don’t want us to be separated. Plus, it’ll be interesting! I mean, I've never participated in a revolution, you haven’t either… This will be so much fun!
-    M “I.. I mean, if you insist… Okay..”
-    B “Yay!”
-    B “Anyways, it’s in a few hours. We can head up to your room. Last one there is a rotten egg!”
-    M “... It's at midnight? Won’t your parents be worried about you ?”
-    B “Stop worrying!”
-    Show scene of magic grounds outside
-M “Oh, it’s so beautiful here. Let's hand in our decision letters, I think it’s that green hole in the door”
-Screen fade/transition
-Show inside of property first building
-B “Is everyone in the world who accepted this year here? There’s only like 200 people! Imagine not getting invited.”
-“The clock strikes twelve.” (make this bold in red?)
-CLOCK BANG SOUND
-Show  mysterrious person flanagan
-Mysterious person: “Everyone, Silence! Let me begin my speech.” 
-Mysterious Person: “Ahem. Hello, and welcome to The Institute of Disenchantment! I’m Flanagan, and i’ll be your host today. Within the next 30 minutes, you will have time to enjoy some refreshments and socialize, then I shall begin calling out names to test for magic.”
-F: “There's no need to be worried, all of you were hand selected for your unique capabilities, and it will not affect you in the long run if you have magic or not. If you happen to do, your courses will not cover how to use your magic, but you may pay us for a private tutor who you will need to attend a session with at least once a week.”
-F: “No questions? Great!”
-“30 Minutes later”
-F: “Ahem. The first person that will be coming with me is…”
-F: “main character’s name.”
-Show scene small room magic testing
-M “Hi?”
-F: “Hello. Put this blindfold on and i’ll handle the rest.”
-“You put the blindfold on.”
-“Flanagan takes you into a different room and pushes you into what you think is a chair. He puts your hands behind your back and straps you in place so you can’t move at all.”
-“You feel freezing water slap your feet. It quickly covers your whole body, and you feel your panic rising. Your mouth opens involuntarily and you feel yourself suffocating.”
-“Then it’s all over, and you can breathe again.”
-“Flanagan unstraps you and takes you back to the original room. He undoes your blindfold and stares at you intently.”
-M “ I don't understand, what just happened? Did you just drown me?”
-F “Yes, we use a controlled environment to test if your instinctual magic will arise to drain the water. Unfortunately, we have to simulate a high stress situation to test this, of course if you don’t have magic I will drain the water for you.
-M “... and what is my result?”
-F “You have magic. Would you like me to organise you into a booking for a tutor?”
-Show M’s mouth gapes open in suprise
-F “Yes? Is that what I heard! Of course. Also, promise me you will tell nobody about anything remotely to do with this room, the room we were in prior to this room and more importantly, the process in which the magic was tested? ”
-M “I promise I will tell nobody about anything remotely to do with this room, the room we were in prior to this room and more importantly, the process in which the magic was tested.”
-F “Thank you.”
-Show black screen
-“2 hours later, after everyone has done their tests.”
-Show small room
-F “Unfortunately the tutors have all been booked out, although i have volunteered myself to be your tutor for your whole stay at the The Institute of Disenchantment. Let’s begin.”
-F: “Close your eyes. Imagine a door. Beyond it, is magic. Open it and walk through.”
-M “Next?”
-F “Imagine yourself now lifting a pebble from the ground. Now do it with your eyes open, in real life.”
-M “Huh? That was just imagination. I can’t do it now.”
-F “I will not be accepting that attitude in my class. Focus. Here is the pebble.”
-M “It’s not working.”
-F “Sigh* Try again when you’re alone.”
-F “Please leave now, your schedule will be in your dorm, dorm 67, find someone else to take you there, class is in 20 minutes.”
-Scene hall. 
-M “Excuse me, where are the dorms? I’m (name)”
-C “I’m Claire. Follow me.”
-Scene outside dorms
-M “It’s dorm 67, it should be further back.”
-C “I’m in dorm 47. I'll just leave you when we get past mine.”
-Scene outside dorm 47 
-M “Bye Claire! See you around!”
-C “Bye.”
-Scene outside dorm 67 
-M “My dorm!”
-Scene inside dorm, timetable on desk.
-M “Okay, Ancient History, Double Hiking Help, Lunch, To Be a Chameleon, Guide to First Aid, How to Take Down The Government. Ancient History starts in 10 minutes, loads of time.”
-M “I think i’ll go find Elle or Claire and compare timetables!”
-Scene Hall
-C “Hi M. What’s your timetable look like?”
-M “Ancient History first then Double Hiking Help!”
-C “ANCIENT HISTORY? You’re not gonna make it to that class in 7 minutes. Take my map. I’ll see you in Hiking Help.”
-Show lecture theatre
-“30 Minutes later”
-Professor “You’re 23 minutes late to class.”
-M “I’m so sorry Professor, I didn't think the Ancient History lecture theatre would be so far away..”
-Show professor frown
-Professor “Talk to me after class.”
-“After Class”
-Lecture theatre alone with professor
-Professor “Just because you have magic does not allow you to be late. I expect you to be early next time”
-M “Of course, Professor”
-Professor “You will have detention after your last class of the day. Meet me at the detention hall.”
-M “Of course, Professor”
-Professor “Now leave, and you may address me by Professor Dane”
-“In Hiking Help”
-Professor “Hello and welcome to your Hiking Help class! I am Professor Lana and today you will be hiking up to the summit of the mountain behind us. Any questions?”
-C “How long is the trail?”
-Professor Lana: “It will be a 15km hike that I expect you to have finished by the end of this double period, in which you have 2 hours and 58 minutes left of!”
-Professor Lana: “Better start quickly! Go!”
-“Everyone starts towards the mountain. You run to catch up with Claire and Elle, who seem to have already befriended each other.”
-M “Hey Elle! Hey Claire!”
-Claire “Hi! Let's get going, we’re going to crush this hike!”
-“An hour and a half later, halfway to the top”
-B “Guys, do you feel the ground shaking?”
-M “Uh, yes, i think i’m going to topple over!”
-C “RUN! AVALANCHE!”
-“You feel your adrenaline kicking in and you start sprinting”
-“You watch Claire and Elle dash towards cover as you fall behind, tripping on a brown rock” 
-“You feel your heart sink as your vision turns blurry”
-“An hour and 20 minutes later”
-C: “Hey M, can you hear me?”
-M: “Hueh?”
-Professor Lana: “Unfortunately, M, you did not pass the test. Your friends, however, mostly passed”
-M: “Wha.. wa… What test?”
-Professor Lana: “The avalanche was set to test your reaction speed, caution, how you react under pressure, and team work. You failed, and because you had to be rescued, you would be getting an F on your grade, however, I have been informed you are under significant pressure so I have upgraded your mark to a D. Your friends will be getting a B+ because they fit all the criterias successfully, except for not working as a team to rescue you.”
-B “Don’t worry M, i’m sure you’ll get a higher grade next time, and i’m sorry i didn’t rescue you”
-M “It’s alright…but what do you mean i’m under significant stress?”
-Professor Lana: “Don’t worry, you girls now have Lunch, M, you can either rest here or go out, the medicine i gave you should have fixed you up already.”
-M “I’ll be fine”
-“Lunch Time”
-C What classes does everyone have next?”
-B “To Be a Chameleon, Guide to First Aid, How to Take Down The Government.”
-M “Same as Elle, we share a timetable”
-C “Thats nice, i’ll share How to Take Down The Government with you”
-B “I heard all the first years share it together!”
-“After Lunch, after To Be a Chameleon, after Guide to First Aid, in class How to Take Down The Government”
-F “You all already know me, I'm Flanagan, and I'll be taking you for this class. Make sure to take notes, and no letter grades in this class, only pass or fail, which will be determined if you successfully complete your assigned mission”
-F “The Government has tried to accelerate climate change, using dark magic to hypnotize people into thinking that what they’re doing is right. In the process, they have killed thousands of innocents.”
-F “The first lesson you will be learning in this class is to deactivate traps. To do without using magic, you can break the items that act as power sources for the traps, which may be random miscellaneous items, or runes for larger traps. If you cannot destroy the power source for the trap, you can disable it if you throw our lavadust within 10 metres of the power source. Another option is to set off the trap yourself by throwing an object into it, however this may not work for all traps, and would be a last resort if you’re trying to be sneaky. I will not be teaching you any more methods apart from these, as I trust you will be creative enough to find your own solutions. Magic-wise, you can alter the power source.”
-F “For your first mission, i will provide each of you with a map and a different location with traps sprung. Most are set by me, in which you will be stuck and I will be collecting you if you set off the trap. Very few are government set, although I'll trust you can deactivate them safely. Do not use magic in this task, and I can tell if you do.”
-F “For the rest of this lesson, there are traps you can practice deactivating scattered across the room. You may begin your assignment after this class, and it is due our next lesson”
-“After class, you walk to the detention hall”
-Show detention hall
-Professor Dane: “Sit down.”
-“You do as Professor Dane says”
-“He ties a cloth around your head, covering your eyes. You feel your body turn unusually cold.”
-“A sudden pain crashes towards you as you make out two faint glows coming out of what seems to be your hands, although you are unsure with the blindfold on”
-Professor Dane: “Interesting”
-Professor Dane: “I will be leaving now. The doors to this facility will auto unlock after 23 hours and your blindfold will disintegrate”
-“ After the time is up, you head  to your dorm to sleep, wondering what just happened.”
-“You wake up to Claire in your dorm at 4AM”
-C “ M, did you see what happened? Elle ran into The Witch whilst trying to disable a trap for the How to Take Down The Government class! Where were you?!”
-M “WHAT? Is Elle okay? I was in detention! Where’s she now?”
-C “Detention? She’s at the Centre of Health now. The Witch turned her blood black with dark magic.”
-C “Do you need a coffee or something? I’m sure the Centre of Health has something to help you stay awake now.”
-M “Let’s go!”
-Show scene centre of health Elle
-M “Elle!! Are you alright?”
-Nurse “Quiet! Let her rest”
-C “Can you at least show us where to get some caffeine to stay awake?”
-Nurse “Yes, i’ll get you two an extra strong coffee each, Stay here.”
-“Nurse leaves”
-C “Elle?”
-“You grab the map sticking out of Elle’s pocket”
-M “I’m going to stab that witch in the back with my magic.”
-Show Claire's mouth gaping open
-C “You have magic? That’s nice. Although, i don’t think you should go challenging the witch or anything. She’s really dangerous.”
-M “Of course I wouldn't do something like that.”
-C “You just said you were going to.”
-M “I was just saying it… metaphorically. Like I wish I could stab that witch in the back.”
-M “Anyways, i need to just quickly grab something from my dorm room. I think i forgot something there”
-C “See you soon? I’ll be waiting here”
-Scene elle’s trap location above on a higher platform
-“The wind buffets your hair and you take a deep breath, readying yourself to jump down and fight The Witch you see patrolling the edges of her trap”
-“ You jump, letting her notice your presence”
-Scene elle’s trap location normal height fight witch
-Witch “Oh, It’s you. The girl I've been looking for. I didn’t think you would walk right into my trap though. Must be stupider than I thought.”
-M “Huh?”
-Witch “It’s quite rare to see one with both light magic and dark magic, one of a kind, even.  A shame you belong with The Institute of Disenchantment. A bit early for them to send you to fight me, isn’t it? How long have you been with them? 3, 4 days?”
-M “No,no you’ve got the wrong person. I only have one magic, and I'm going to kill you with it.”
-“You dart towards her, trying to swing a knife across her face.”
-Witch: “Pathetic. You can’t even use a knife yet, and you don’t even know you have 2 magics. You’ll be coming with me, anyway”
-“You attempt another knife swing, yet your body is frozen in place”
-Witch: “Can’t move, can you?”
-M: “Stop it!”
-Show scene witch uses hand cuffs
-“The Witch moves gracefully moves towards you, tying your hands behind your back with hand cuffs”
-Witch: “These make sure you can’t use magic,move your body or even speak so I don't even need to use my magic on you!”
-Show scene black
-“She ties a black cloth around your head, removing your eyesight”
-“She gives you a shove, pushing you onto something that starts moving”
-“What you think is an hour passes until you arrive somewhere”
-“You get roughly pushed along until you arrive where she wants you to be”
-Witch: “Get ready to meet your new master!”
-Master: “Untie her blindfold. Let her see who she answers to now.”
-“The cloth gets untied, and you stare blankly at him, unable to alter your facial expressions.”
-“Flanagan.”
+    B "Guess what! I got invited to the Institute of Disenchantment!"
+    B "and i'm accepting the invite! I have to go, they're so mysterious and now I can finally know all their secrets!"
+    M "I got an invite too! But.. I'm not sure I should accept. I mean, I don't really want to participate in a revolution. I just want to live a normal life."
+    B "PLEASE accept. I don't want us to be separated. Plus, it'll be interesting! I mean, I've never participated in a revolution, you haven't either... This will be so much fun!
+    M "I.. I mean, if you insist... Okay.."
+    B "Yay!"
+    B "Anyways, it's in a few hours. We can head up to your room. Last one there is a rotten egg!"
+    M "... It's at midnight? Won't your parents be worried about you ?"
+    B "Stop worrying!"
+    scene 5
+    M "Oh, it's so beautiful here. Let's hand in our decision letters, I think it's that green hole in the door"
+    scene 6
+    B "Is everyone in the world who accepted this year here? There's only like 200 people! Imagine not getting invited."
+    "The clock strikes twelve."
+    #CLOCK BANG SOUND HERE
+    scene 7
+    "Mysterious person" "Everyone, Silence! Let me begin my speech."
+    "Mysterious Person" "Ahem. Hello, and welcome to The Institute of Disenchantment! I'm Flanagan, and i'll be your host today. Within the next 30 minutes, you will have time to enjoy some refreshments and socialize, then I shall begin calling out names to test for magic."
+    F "There's no need to be worried, all of you were hand selected for your unique capabilities, and it will not affect you in the long run if you have magic or not. If you happen to do, your courses will not cover how to use your magic, but you may pay us for a private tutor who you will need to attend a session with at least once a week."
+    F "No questions? Great!"
+    "30 Minutes later"
+    F "Ahem. The first person that will be coming with me is..."
+    F: "Raye"
+    scene 8
+    M "Hi?"
+    F "Hello. Put this blindfold on and i'll handle the rest."
+    "You put the blindfold on."
+    scene 9
+    "Flanagan takes you into a different room and pushes you into what you think is a chair. He puts your hands behind your back and straps you in place so you can't move at all."
+    "You feel freezing water slap your feet. It quickly covers your whole body, and you feel your panic rising. Your mouth opens involuntarily and you feel yourself suffocating."
+    "Then it's all over, and you can breathe again."
+    "Flanagan unstraps you and takes you back to the original room. He undoes your blindfold and stares at you intently."
+    scene 10
+    M "I don't understand, what just happened? Did you just drown me?"
+    F "Yes, we use a controlled environment to test if your instinctual magic will arise to drain the water. Unfortunately, we have to simulate a high stress situation to test this, of course if you don't have magic I will drain the water for you."
+    M "... and what is my result?"
+    F "You have magic. Would you like me to organise you into a booking for a tutor?"
+    F "Yes? Is that what I heard! Of course. Also, promise me you will tell nobody about anything remotely to do with this room, the room we were in prior to this room and more importantly, the process in which the magic was tested?"
+    M "I promise I will tell nobody about anything remotely to do with this room, the room we were in prior to this room and more importantly, the process in which the magic was tested."
+"2 hours later, after everyone has done their tests."
+F "Unfortunately the tutors have all been booked out, although i have volunteered myself to be your tutor for your whole stay at the The Institute of Disenchantment. Let's begin."
+F "Close your eyes. Imagine a door. Beyond it, is magic. Open it and walk through."
+M "Next?"
+F "Imagine yourself now lifting a pebble from the ground. Now do it with your eyes open, in real life."
+M "Huh? That was just imagination. I can't do it now.""
+F "I will not be accepting that attitude in my class. Focus. Here is the pebble."
+M "It's not working."
+F "Sigh* Try again when you're alone."
+F "Please leave now, your schedule will be in your dorm, dorm 67, find someone else to take you there, class is in 20 minutes."
+Scene 11
+M "Excuse me, where are the dorms? I'm Raye"
+C "I'm Claire. Follow me."
+M "It's dorm 67, it should be further back."
+C "I'm in dorm 47. I'll just leave you when we get past mine."
+Scene 11.5
+M "Bye Claire! See you around!"
+C "Bye."
+Scene 12
+M "My dorm!"
+M "Okay, Ancient History, Double Hiking Help, Lunch, To Be a Chameleon, Guide to First Aid, How to Take Down The Government. Ancient History starts in 10 minutes, loads of time."
+M "I think i'll go find Elle or Claire and compare timetables!"
+Scene 11.5
+C "Hi M. What's your timetable look like?"
+M "Ancient History first then Double Hiking Help!"
+C "ANCIENT HISTORY? You're not gonna make it to that class in 7 minutes. Take my map. I'll see you in Hiking Help."
+Scene 13
+"30 Minutes later"
+"Professor" "You're 23 minutes late to class."
+M "I'm so sorry Professor, I didn't think the Ancient History lecture theatre would be so far away.."
+"Professor" "Talk to me after class."
+Scene 14
+"Professor" "Just because you have magic does not allow you to be late. I expect you to be early next time"
+M "Of course, Professor"
+"Professor" "You will have detention after your last class of the day. Meet me at the detention hall."
+M "Of course, Professor"
+"Professor" "Now leave, and you may address me by Professor Dane"
+scene 15
+"Professor" "ello and welcome to your Hiking Help class! I am Professor Lana and today you will be hiking up to the summit of the mountain behind us."
+"Everyone starts towards the mountain. You run to catch up with Claire and Elle, who seem to have already befriended each other."
+M "Hey Elle! Hey Claire!""
+Claire "Hi! Let's get going, we're going to crush this hike!"
+"An hour and a half later, halfway to the top"
+B "Guys, do you feel the ground shaking?"
+M "Uh, yes, i think i'm going to topple over!""
+C "RUN! AVALANCHE!"
+"You feel your adrenaline kicking in and you start sprinting"
+"You watch Claire and Elle dash towards cover as you fall behind, tripping on a brown rock"
+"You feel your heart sink as your vision turns blurry"
+scene 16
+"An hour and 20 minutes later"
+C "Hey M, can you hear me?"
+M "Hueh?"
+"Professor Lana" "Unfortunately, M, you did not pass the test. Your friends, however, mostly passed"
+M "Wha.. wa.. What test?"
+"Professor Lana" "The avalanche was set to test your reaction speed, caution, how you react under pressure, and team work. You failed, and because you had to be rescued, you would be getting an F on your grade, however, I have been informed you are under significant pressure so I have upgraded your mark to a D. Your friends will be getting a B+ because they fit all the criterias successfully, except for not working as a team to rescue you."
+B "Don't worry M, i'm sure you'll get a higher grade next time, and i'm sorry i didn't rescue you"
+M "It's alright..but what do you mean i'm under significant stress?"
+"Professor Lana" "Don't worry, you girls now have Lunch, M, you can either rest here or go out, the medicine i gave you should have fixed you up already."
+M "I'll be fine"
+scne 17
+"Lunch Time"
+C "What classes does everyone have next?"
+B "To Be a Chameleon, Guide to First Aid, How to Take Down The Government."
+M "Same as Elle, we share a timetable"
+C "Thats nice, i'll share How to Take Down The Government with you"
+B "I heard all the first years share it together!"
+scene 18
+"After Lunch, after To Be a Chameleon, after Guide to First Aid, in class How to Take Down The Government"
+F "You all already know me, I'm Flanagan, and I'll be taking you for this class. Make sure to take notes, and no letter grades in this class, only pass or fail, which will be determined if you successfully complete your assigned mission"
+F "The Government has tried to accelerate climate change, using dark magic to hypnotize people into thinking that what they're doing is right. In the process, they have killed thousands of innocents."
+F "The first lesson you will be learning in this class is to deactivate traps. To do without using magic, you can break the items that act as power sources for the traps, which may be random miscellaneous items, or runes for larger traps. If you cannot destroy the power source for the trap, you can disable it if you throw our lavadust within 10 metres of the power source. Another option is to set off the trap yourself by throwing an object into it, however this may not work for all traps, and would be a last resort if you're trying to be sneaky. I will not be teaching you any more methods apart from these, as I trust you will be creative enough to find your own solutions. Magic-wise, you can alter the power source."
+F "For your first mission, i will provide each of you with a map and a different location with traps sprung. Most are set by me, in which you will be stuck and I will be collecting you if you set off the trap. Very few are government set, although I'll trust you can deactivate them safely. Do not use magic in this task, and I can tell if you do."
+F "For the rest of this lesson, there are traps you can practice deactivating scattered across the room. You may begin your assignment after this class, and it is due our next lesson"
+"After class, you walk to the detention hall"
+Scene 19
+"Professor Dane" "Sit down."
+"You do as Professor Dane says"
+"He ties a cloth around your head, covering your eyes. You feel your body turn unusually cold."
+Scene 20
+"A sudden pain crashes towards you as you make out two faint glows coming out of what seems to be your hands, although you are unsure with the blindfold on"
+"Professor Dane" "Interesting"
+"Professor Dane" "I will be leaving now. The doors to this facility will auto unlock after 23 hours and your blindfold will disintegrate"
+"After the time is up, you head  to your dorm to sleep, wondering what just happened."
+Scene 21
+"You wake up to Claire in your dorm at 4AM"
+C "M, did you see what happened? Elle ran into The Witch whilst trying to disable a trap for the How to Take Down The Government class! Where were you?!"
+M "WHAT? Is Elle okay? I was in detention! Where's she now?"
+C "Detention? She's at the Centre of Health now. The Witch turned her blood black with dark magic."
+C "Do you need a coffee or something? I'm sure the Centre of Health has something to help you stay awake now."
+M "Let's go!"
+scene 22
+M "Elle!! Are you alright?
+"Nurse" "Quiet! Let her rest"
+C "Can you at least show us where to get some caffeine to stay awake?"
+"Nurse" "Yes, i'll get you two an extra strong coffee each, Stay here."
+scene 23
+C "Elle?""
+"You grab the map sticking out of Elle's pocket"
+M "I'm going to stab that witch in the back with my magic."
+C "You have magic? That's nice. Although, i don't think you should go challenging the witch or anything. She's really dangerous."
+M "Of course I wouldn't do something like that."
+C "You just said you were going to."
+M "I was just saying it.. metaphorically. Like I wish I could stab that witch in the back."
+M "Anyways, i need to just quickly grab something from my dorm room. I think i forgot something there"
+C "See you soon? I'll be waiting here"
+scene 24
+"The wind buffets your hair and you take a deep breath, readying yourself to jump down and fight The Witch you see patrolling the edges of her trap"
+"You jump, letting her notice your presence"
+scene 25
+"Witch" "Oh, It's you. The girl I've been looking for. I didn't think you would walk right into my trap though. Must be stupider than I thought."
+M "Huh?"
+"Witch" "It's quite rare to see one with both light magic and dark magic, one of a kind, even.  A shame you belong with The Institute of Disenchantment. A bit early for them to send you to fight me, isn't it? How long have you been with them? 3, 4 days?"
+M "No,no you've got the wrong person. I only have one magic, and I'm going to kill you with it."
+"You dart towards her, trying to swing a knife across her face."
+"Witch" "Pathetic. You can't even use a knife yet, and you don't even know you have 2 magics. You'll be coming with me, anyway"
+"You attempt another knife swing, yet your body is frozen in place"
+"Witch" "Can;t move, can you?"
+M "Stop it!"
+"The Witch moves gracefully moves towards you, tying your hands behind your back with hand cuffs"
+"Witch" "These make sure you can't use magic,move your body or even speak so I don't even need to use my magic on you!"
+"She ties a black cloth around your head, removing your eyesight"
+scene 26
+"She gives you a shove, pushing you onto something that starts moving"
+"What you think is an hour passes until you arrive somewhere"
+"You get roughly pushed along until you arrive where she wants you to be
+"Witch" "Get ready to meet someone!"
+"Master" "Untie her blindfold. Let her see who she answers to now."
+"The cloth gets untied, and you stare blankly at him, unable to alter your facial expressions."
+"Flanagan.""
